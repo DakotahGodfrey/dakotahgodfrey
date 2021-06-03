@@ -1,13 +1,10 @@
 # **👋 Hey there! I'm Dakotah,**
 
 <!-- ## About me -->
-<!-- <hr> -->
 
 I am a community-taught developer from Toronto, Canada 🇨🇦. I'm passionate about accessible and clean web design. Right now my main foucs is building the skills needed to be a sucessful frontend developer!
 
 ## **What I'm building with:**
-
-<hr>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&style=for-the-badge&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&style=for-the-badge&logoColor=ffffff)
@@ -20,7 +17,7 @@ I am a community-taught developer from Toronto, Canada 🇨🇦. I'm passionate 
 
 ## **Where you can find me:**
 
-<hr>
+
 [<img alt="Twitter" src="https://img.shields.io/badge/@dakotah_dev-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/dakotah_dev)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/@dakotah_godfrey-0A66C2.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/>](https://linkedin.com/in/dakotah_dev)
 
