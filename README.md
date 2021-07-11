@@ -2,7 +2,7 @@
 
 <!-- ## About me -->
 
-I am a community-taught developer from Toronto, Canada 🇨🇦. I'm passionate about accessible and clean web design. Right now my main foucs is building the skills needed to be a sucessful frontend developer!
+I am a community-taught developer from Toronto, Canada 🇨🇦. I'm passionate about accessible and clean web design. Right now my main focus is building the skills needed to be a sucessful frontend developer!
 
 ## **What I'm building with:**
 
